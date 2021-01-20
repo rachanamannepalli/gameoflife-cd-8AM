@@ -13,7 +13,7 @@
 
     - name: copy gameoflife.war to target
       copy:
-        src: "{{ workspace }}/gameoflife-0.0.1.war"
+        src: "{{ workspace }}/gameoflife-0.0.2.war"
         dest: /tmp/gameoflife/gameoflife.war
 
     - name: run gameoflife.war file
