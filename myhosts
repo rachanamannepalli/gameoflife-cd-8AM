@@ -1,1 +1,1 @@
-demo3 ansible_ssh_host=172.31.44.190 ansible_ssh_user=root
+demo3 ansible_ssh_host=172.31.1.231 ansible_ssh_user=root
