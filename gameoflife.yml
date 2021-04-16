@@ -1,5 +1,5 @@
 ---
-- hosts: demo3
+- hosts: demo
   tasks:
     - name: install java
       yum:
