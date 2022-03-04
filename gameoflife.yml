@@ -1,5 +1,5 @@
 ---
-- hosts: demo
+- hosts: "{{ server }}"
   tasks:
     - name: install java
       yum:
