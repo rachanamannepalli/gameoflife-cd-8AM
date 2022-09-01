@@ -1,6 +1,6 @@
 [project1]
-DEV ansible_ssh_host=172.31.24.7 ansible_ssh_user=root
-TST ansible_ssh_host=172.31.24.7 ansible_ssh_user=root
-UAT ansible_ssh_host=172.31.24.7 ansible_ssh_user=root
-ORT ansible_ssh_host=172.31.24.7 ansible_ssh_user=root
-PROD ansible_ssh_host=172.31.24.7 ansible_ssh_user=root
+DEV ansible_ssh_host=172.31.92.83 ansible_ssh_user=root
+TST ansible_ssh_host=172.31.92.83 ansible_ssh_user=root
+UAT ansible_ssh_host=172.31.92.83 ansible_ssh_user=root
+ORT ansible_ssh_host=172.31.92.83 ansible_ssh_user=root
+PROD ansible_ssh_host=172.31.92.83 ansible_ssh_user=root
